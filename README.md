@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **Cool project**
 
-- 📫 How to reach me **mosa.salman.g@gamil.com**
-
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosa-salman)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosa.salman.g@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mosasalman-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mosasalman)
+[![Gmail](https://img.shields.io/badge/-mosa.salman.g@gamil.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mosa.salman.g@gmail.com)
 
 ## Languages and Tools
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
