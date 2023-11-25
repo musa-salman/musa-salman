@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mosa Salman</h1>
-
+![Header](./header.png)
 - 🎓 Studying software engineering at Azrieli College of Engineering Jerusalem
 
 - 💬 Ask me about Dart and Flutter
@@ -9,9 +8,8 @@
 - 📫 How to reach me **mosa.salman.g@gamil.com**
 
 ## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/mosa-salman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosa-salman" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosa-salman)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosa.salman.g@gmail.com)
 
 ## Languages and Tools
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
