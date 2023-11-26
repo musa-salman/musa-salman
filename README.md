@@ -1,15 +1,14 @@
 ![Header](./header.png)
-- 🎓 Studying software engineering at Azrieli College of Engineering Jerusalem
-
+## 📖 About me
+- 🎓 Studying software engineering at Azrieli College of Engineering Jerusalem, with four semesters left until graduation.
 - 💬 Ask me about Dart and Flutter
-
 - 🔭 I’m currently working on **Cool project**
-
+  
 ## 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-mosasalman-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mosasalman)
 [![Gmail](https://img.shields.io/badge/-mosa.salman.g@gamil.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mosa.salman.g@gmail.com)
 
-## Languages and Tools
+## 💻 Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
