@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cool project**
 
-## Connect with me
+## 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-mosasalman-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mosasalman)
 [![Gmail](https://img.shields.io/badge/-mosa.salman.g@gamil.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mosa.salman.g@gmail.com)
 
