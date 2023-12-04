@@ -5,7 +5,7 @@ I'm a passionate 3rd-year Software Engineering student on a mission to transform
 ## 📚 Academic Journey  
 - 🎓 Currently cruising through my third year at Azrieli College of Engineering Jerusalem, with four semesters left until graduation.
 - 🏆 Honored to have made it to the Dean's List in my first year.
-- 🌟 Actively involved in the **Al-Bashaer Program** for the development of leadership skills.
+- 🌟 Actively involved in **Al-Bashaer Program** for the development of leadership skills.
 
 ## 💻 Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
