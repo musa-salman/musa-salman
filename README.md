@@ -1,4 +1,3 @@
-![Header](./header.png)
 ## 📖 About me
 I'm a passionate 3rd-year Software Engineering student on a mission to transform ideas into elegant solutions. 🚀
 
