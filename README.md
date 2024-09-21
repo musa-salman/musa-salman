@@ -1,5 +1,5 @@
 ## 📖 About me
-I'm a passionate 3rd-year Software Engineering student on a mission to transform ideas into elegant solutions. 🚀
+I'm a passionate 4th-year Software Engineering student on a mission to transform ideas into elegant solutions. 🚀
 
 ## 📚 Academic Journey  
 - 🎓 Currently cruising through my third year at Azrieli College of Engineering Jerusalem, with four semesters left until graduation.
