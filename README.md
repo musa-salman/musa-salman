@@ -2,7 +2,7 @@
 I'm a passionate 4th-year Software Engineering student on a mission to transform ideas into elegant solutions. 🚀
 
 ## 📚 Academic Journey  
-- 🎓 Currently cruising through my third year at Azrieli College of Engineering Jerusalem, with four semesters left until graduation.
+- 🎓 Currently cruising through my third year at Azrieli College of Engineering Jerusalem, with two semesters left until graduation.
 - 🏆 Honored to have made it to the Dean's List in my first year.
 - 🌟 Actively involved in **Al-Bashaer Program** for the development of leadership skills.
 
